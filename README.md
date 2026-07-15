@@ -4,7 +4,7 @@ An interactive Power BI dashboard analyzing SuperStore US sales performance.
 
 ## Dashboard Preview
 
-![Dashboard](SuperStores US Executive Dashboard.png)
+![Dashboard](SuperStores%20US%20Executive%20Dashboard.png)
 
 ## Key Metrics
 
