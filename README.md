@@ -34,3 +34,10 @@ An interactive Power BI dashboard analyzing SuperStore US sales performance.
 - DAX Measures
 - Dashboard Design
 - Business Intelligence
+
+## Key Business Insights
+
+• Urban category contributed the highest revenue (74.23%).
+• East region generated the highest revenue among all regions.
+• VanArsdel was the top-performing manufacturer.
+• Monthly revenue showed noticeable fluctuations throughout the year.
